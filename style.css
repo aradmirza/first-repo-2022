@@ -1,3 +1,7 @@
+.blog{
+    padding: 5px;
+    text-align: justify;
+}
 p{
     color: rgb(251, 142, 0);
     display: inline-block;
@@ -16,4 +20,11 @@ p{
     color: rgb(202, 18, 70);
     background-color: bisque;
     border-radius: 20px;
+}
+#dateinput{
+   display: table;
+}
+input{
+    margin: 5px;
+    display: inline-flex;
 }
